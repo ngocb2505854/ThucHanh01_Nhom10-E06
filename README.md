@@ -69,7 +69,7 @@ Chỉnh sửa infographic: Thêm văn bản, hình ảnh từ nguồn miễn ph�
 Xuất file PNG và ghi chú: “Infographic được tạo bằng Canva AI” trong mô tả.
 Đẩy file PNG lên GitHub với giấy phép Creative Commons (CC BY).
 Trích dẫn nguồn AI https://www.canva.com/ai
-Canva AI © 2025 của Ngọc được cấp phép theo Creative Commons Attribution 4.0 International. Để xem bản sao của giấy phép này, vui lòng truy cập https://creativecommons.org/licenses/by/4.0/
+Canva AI © 2025 của Ngọc được cấp phép theo Creative Commons Attribution 4.0 International. <a href="https://github.com/ngocb2505854/ThucHanh01_Nhom10-E06.git">Canva AI</a> © 2025 by <a href="https://github.com/ngocb2505854/ThucHanh01_Nhom10-E06.git">Ngọc</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 Nhiệm vụ 3.2: Đánh giá đạo đức khi sử dụng AI
 Nội dung thực hành: Phân tích cách sử dụng AI trong nhiệm vụ 3.1 theo nguyên tắc đạo đức.
