@@ -13,16 +13,16 @@ Ghi lại thông số (CPU model, RAM dung lượng, loại ổ cứng: HDD/SSD)
 Nhiệm vụ 1.2: Cấu hình phần mềm cơ bản
 Nội dung thực hànhành: Sử dụng AI để hỗ trợ cài đặt và cấu hình trình duyệt Chrome hoặc phần mềm Notepad++.
 Mô tả các bước thực hiện:
-Bước 1: Cài đặt Notepad++
+1. Cài đặt Notepad++
 Tải xuống: Truy cập trang web chính thức notepad-plus-plus.org, tải bản cài đặt 64-bit x64 Installer.
 Cài đặt: Mở tệp vừa tải xuống, làm theo các bước mặc định và nhấn Finish để hoàn tất.
-Bước 2: Viết và chạy code Python
+2. Viết và chạy code Python
 Notepad++ đã hỗ trợ sẵn việc tô màu cú pháp (syntax highlighting) cho Python, nên bạn chỉ cần thực hiện 2 bước đơn giản sau:
 Tạo tệp: Mở Notepad++, gõ đoạn code Python của bạn, ví dụ:
 Python
 print("Hello, AI!")
 Lưu tệp: Nhấn File > Save As.... Đặt tên tệp, ví dụ hello.py, và ở mục Save as type, chọn Python file.
-Bước 3: Chạy code Python
+3. Chạy code Python
 Bạn có thể chạy tệp Python của mình bằng Command Prompt (cmd) hoặc PowerShell.
 Mở Command Prompt bằng cách gõ cmd vào thanh tìm kiếm của Windows.
 Dùng lệnh cd để điều hướng đến thư mục chứa tệp Python của bạn. Ví dụ: Nếu tệp được lưu ở Desktop, gõ cd Desktop.
@@ -37,18 +37,18 @@ Mô tả các bước thực hiện:
 Mở Grok, nhập prompt: “Cách khắc phục lỗi Wi-Fi không kết nối trên Windows 10.”
 Thực hiện các bước AI đề xuất: 
 1. Kiểm tra cơ bản
-B1: Bật Wi-Fi
-B2: Kiểm tra router
-B3: Xem Phạm vi tín hiệu
-B4: Kiểm tra trên thiết bị khác
+   - Bật Wi-Fi
+   -  Kiểm tra router
+   -   Xem Phạm vi tín hiệu
+   -    Kiểm tra trên thiết bị khác
 2. Cập nhật hoặc cài lại driver Wi-Fi
-B1: Nhấn Windows + X, chọn Device Manager.
-B2: Mở rộng mục Network adapters, tìm adapter Wi-Fi (thường có từ "Wireless" hoặc tên hãng như Intel, Realtek).
-B3: Nhấp chuột phải, chọn Update driver > Search automatically for drivers.
-B4:Nếu không hoạt động, chọn Uninstall device, sau đó khởi động lại máy để Windows tự cài lại driver.
-B5: Nếu vẫn không được, tải driver mới nhất từ trang web của hãng sản xuất laptop hoặc adapter Wi-Fi (Intel, Broadcom, Realtek...).
-Ghi lại các bước đã thực hiện và kết quả (kết nối thành công hay không) vào Google Docs.
-Chụp ảnh màn hình trạng thái Wi-Fi sau khi khắc phục.
+   - Nhấn Windows + X, chọn Device Manager.
+   -  Mở rộng mục Network adapters, tìm adapter Wi-Fi (thường có từ "Wireless" hoặc tên hãng như Intel, Realtek).
+   -   Nhấp chuột phải, chọn Update driver > Search automatically for drivers.
+   -   Nếu không hoạt động, chọn Uninstall device, sau đó khởi động lại máy để Windows tự cài lại driver.
+   -    Nếu vẫn không được, tải driver mới nhất từ trang web của hãng sản xuất laptop hoặc adapter Wi-Fi (Intel, Broadcom, Realtek...).
+3. Ghi lại các bước đã thực hiện và kết quả (kết nối thành công hay không) vào Google Docs.
+4. Chụp ảnh màn hình trạng thái Wi-Fi sau khi khắc phục.
 Trích dẫn nguồn AI   https://grok.com/c
 
 Nhiệm vụ 2.2: Xử lý lỗi phần mềm cơ bản
@@ -69,7 +69,7 @@ Chỉnh sửa infographic: Thêm văn bản, hình ảnh từ nguồn miễn ph�
 Xuất file PNG và ghi chú: “Infographic được tạo bằng Canva AI” trong mô tả.
 Đẩy file PNG lên GitHub với giấy phép Creative Commons (CC BY).
 Trích dẫn nguồn AI https://www.canva.com/ai
-Canva AI © 2025 của Ngọc được cấp phép theo Creative Commons Attribution 4.0 International. <a href="https://github.com/ngocb2505854/ThucHanh01_Nhom10-E06.git">Canva AI</a> © 2025 by <a href="https://github.com/ngocb2505854/ThucHanh01_Nhom10-E06.git">Ngọc</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 
 Nhiệm vụ 3.2: Đánh giá đạo đức khi sử dụng AI
 Nội dung thực hành: Phân tích cách sử dụng AI trong nhiệm vụ 3.1 theo nguyên tắc đạo đức.
@@ -78,4 +78,5 @@ Nghiên cứu [2] DigComp 2.2 về đạo đức số (hoặc tài liệu [7] Go
 Viết đoạn văn ngắn (100-150 từ) trả lời câu hỏi: “Làm thế nào để sử dụng Canva AI một cách minh bạch và đạo đức?”
 Gợi ý: Ghi nguồn AI, không sử dụng nội dung để lan truyền thông tin sai lệch, kiểm tra bản quyền hình ảnh.
 Lưu đoạn văn vào Google Docs và đẩy lên GitHub cùng với infographic.
+Trích dẫn nguồn  https://gemini.google.com/
 
