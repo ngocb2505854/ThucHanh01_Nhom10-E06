@@ -29,7 +29,7 @@ Dùng lệnh cd để điều hướng đến thư mục chứa tệp Python c�
 Gõ lệnh sau để chạy chương trình:
 python "C:\Users\ADMIN\OneDrive\Máy tính\hello.py"
 Kết quả Hello, AI! sẽ hiển thị ngay bên dưới trong cửa sổ Command Prompt.
-Trích dẫn nguồn AI https://gemini.google.com/
+*Trích dẫn nguồn AI https://gemini.google.com/
 
 Nhiệm vụ 2.1: Xử lý sự cố kết nối Wi-Fi
 Nội dung thực hành: Sử dụng AI để tìm cách khắc phục sự cố Wi-Fi mất kết nối trên Windows 10.
@@ -49,7 +49,7 @@ Thực hiện các bước AI đề xuất:
    -    Nếu vẫn không được, tải driver mới nhất từ trang web của hãng sản xuất laptop hoặc adapter Wi-Fi (Intel, Broadcom, Realtek...).
 3. Ghi lại các bước đã thực hiện và kết quả (kết nối thành công hay không) vào Google Docs.
 4. Chụp ảnh màn hình trạng thái Wi-Fi sau khi khắc phục.
-Trích dẫn nguồn AI   https://grok.com/c
+*Trích dẫn nguồn AI   https://grok.com/c
 
 Nhiệm vụ 2.2: Xử lý lỗi phần mềm cơ bản
 Nội dung thực hiện: Sử dụng AI để khắc phục lỗi “Notepad++ không mở được file Python lớn”.
@@ -58,7 +58,7 @@ Nhập prompt vào Google Bard: “Cách khắc phục lỗi Notepad++ không m�
 Thực hiện giải pháp AI đề xuất (ví dụ: tăng bộ nhớ cache, chuyển sang trình soạn thảo khác như VS Code).
 Thử mở một file Python lớn (>1MB, tải mẫu từ GitHub nếu cần).
 Ghi lại kết quả (thành công/thất bại) và giải pháp vào file văn bản.
-Trích dẫn nguồn  https://gemini.google.com/
+*Trích dẫn nguồn AI  https://gemini.google.com/
 
 Nhiệm vụ 3.1: Tạo nội dung học tập với Canva AI
 Nội dung thực hành: Sử dụng Canva AI để tạo infographic về một chủ đề công nghệ số (ví dụ: “Ứng dụng AI trong CNTT”).
@@ -68,7 +68,7 @@ Sử dụng tính năng AI (Magic Design): Nhập prompt “Tạo infographic v�
 Chỉnh sửa infographic: Thêm văn bản, hình ảnh từ nguồn miễn phí (Unsplash tích hợp trong Canva).
 Xuất file PNG và ghi chú: “Infographic được tạo bằng Canva AI” trong mô tả.
 Đẩy file PNG lên GitHub với giấy phép Creative Commons (CC BY).
-Trích dẫn nguồn AI https://www.canva.com/ai
+*Trích dẫn nguồn AI https://www.canva.com/ai
 
 
 Nhiệm vụ 3.2: Đánh giá đạo đức khi sử dụng AI
@@ -78,5 +78,5 @@ Nghiên cứu [2] DigComp 2.2 về đạo đức số (hoặc tài liệu [7] Go
 Viết đoạn văn ngắn (100-150 từ) trả lời câu hỏi: “Làm thế nào để sử dụng Canva AI một cách minh bạch và đạo đức?”
 Gợi ý: Ghi nguồn AI, không sử dụng nội dung để lan truyền thông tin sai lệch, kiểm tra bản quyền hình ảnh.
 Lưu đoạn văn vào Google Docs và đẩy lên GitHub cùng với infographic.
-Trích dẫn nguồn  https://gemini.google.com/
+*Trích dẫn nguồn AI  https://gemini.google.com/
 
